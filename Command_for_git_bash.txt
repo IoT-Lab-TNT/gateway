@@ -1,2 +1,16 @@
--update code:
+-update code from github:
+
 git pull
+-------------------------------------
+- push code to github:
++step 1:
+
+git add .
+--------
++step 2: add comment, "an dep trai" is comment
+
+git commimt -m "an dep trai"
+--------
++step 3:
+
+git push

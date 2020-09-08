@@ -9,7 +9,7 @@ git add .
 --------
 +step 2: add comment, "an dep trai" is comment
 
-git commimt -m "an dep trai"
+git commit -m "an dep trai"
 --------
 +step 3:
 
